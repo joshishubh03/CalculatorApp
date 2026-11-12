@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="BonusEngine.Tests.NUnit/BonusEngine.Tests.NUnit.csproj" />
+  <Project Path="BonusEngine.Tests.xUnit/BonusEngine.Tests.xUnit.csproj" />
+  <Project Path="BonusEngineProject/BonusEngine.csproj" Id="2da69582-9ad2-4eda-9d12-277e42eba951" />
+ <Project Path="EmployeeOnboarding.Console/EmployeeOnboarding.Console.csproj" />
+  <Project Path="EmployeeOnboarding.Core/EmployeeOnboarding.Core.csproj" />
+  <Project Path="EmployeeOnboarding.Tests.NUnit/EmployeeOnboarding.Tests.NUnit.csproj" />
+  <Project Path="EmployeeOnboarding.Tests.xUnit/EmployeeOnboarding.Tests.xUnit.csproj" />
+  <Project Path="OrderProcessing.Core/OrderProcessing.Core.csproj" />
+  <Project Path="OrderProcessing.Tests.NUnit/OrderProcessing.Tests.NUnit.csproj" />
+  <Project Path="OrderProcessing.Tests.xUnit/OrderProcessing.Tests.xUnit.csproj" />
+
+</Solution>
