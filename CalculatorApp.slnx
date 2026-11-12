@@ -10,4 +10,7 @@
   <Project Path="EmployeeManagement.Tests.xUnit/EmployeeManagement.Tests.xUnit.csproj" Id="b0a37bd7-01a4-48d2-8ae3-fff21c1d3e88" />
   <Project Path="EmployeeManagement/EmployeeManagement.csproj" Id="d4ae4b11-9d00-408e-bd61-3ec56111c7be" />
   <Project Path="EmployeePayroll/EmployeePayroll.csproj" />
+  <Project Path="ExternalApiClient.Tests.NUnit/ExternalApiClient.Tests.NUnit.csproj" Id="31205c2c-5881-4d51-a36d-e497da6d0524" />
+  <Project Path="ExternalApiClient.Tests.xUnit/ExternalApiClient.Tests.xUnit.csproj" Id="f9bc6fcd-a319-4b8d-8706-a2b77c88c4c1" />
+  <Project Path="ExternalApiClient/ExternalApiClient.csproj" Id="8ffb4a18-c994-49ef-9aab-24d6dbee4528" />
 </Solution>
