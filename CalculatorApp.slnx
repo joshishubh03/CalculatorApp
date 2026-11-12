@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="test.runsettings" />
+  </Folder>
+  <Project Path="CalculatorApp.Tests.NUnit/CalculatorApp.Tests.NUnit.csproj" />
+  <Project Path="CalculatorApp.Tests.xUnit/CalculatorApp.Tests.xUnit.csproj" />
+  <Project Path="CalculatorApp/CalculatorApp.csproj" />
+  <Project Path="EcommerceDiscounts/EcommerceDiscounts.csproj" />
+  <Project Path="EmployeeManagement.Tests.NUnit/EmployeeManagement.Tests.NUnit.csproj" Id="c47850f4-e4d9-4f4a-9346-abc4e450a175" />
+  <Project Path="EmployeeManagement.Tests.xUnit/EmployeeManagement.Tests.xUnit.csproj" Id="b0a37bd7-01a4-48d2-8ae3-fff21c1d3e88" />
+  <Project Path="EmployeeManagement/EmployeeManagement.csproj" Id="d4ae4b11-9d00-408e-bd61-3ec56111c7be" />
+  <Project Path="EmployeePayroll/EmployeePayroll.csproj" />
+</Solution>
